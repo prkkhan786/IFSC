@@ -1,0 +1,19 @@
+{
+  "name": "react-ix4eyx",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/react-ix4eyx",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "1.0.10",
+    "firebase": "5.0.3"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
